@@ -3,7 +3,7 @@
 
 我们来自 `蚂蚁金服-体验技术部-数据图形` 小组，G2 和 AntV 是我们小组经过一年多的沉淀后的产出，初次和大家见面，希望大家多多关照。
 
-任何问题和建议请您慷慨指教：[New issue](https://github.com/antvis/feedback/issues/new)
+**任何问题和建议请您慷慨指教：[New issue](https://github.com/antvis/feedback/issues/new)**
 
 
 # ![image](https://os.alipayobjects.com/rmsportal/OHrTRDHIKaBLeri.png)  [G2](http://g2.alipay.com)
