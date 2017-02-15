@@ -3,7 +3,7 @@
 
 AntV 2.0 简介
 
-![image](https://zos.alipayobjects.com/rmsportal/NupnaxLBcsdUdiKACsPP.png)
+[![image](https://zos.alipayobjects.com/rmsportal/NupnaxLBcsdUdiKACsPP.png)](https://antv.alipay.com)
 
 作为蚂蚁金服-体验技术部旗下，专门捣腾数据可视化的一帮人，过去两年，我们在数据可视化领域不断的探索、实践、总结，先后产出了【2D绘图引擎G】，【基于图形语法的可视化引擎G2】，【流程图、关系图可视化类库G6】，【以及一份颇具情怀的图表使用规范 AntV 1.0】。随着业务的不断拓宽，为了给外界传达一个更清晰、更专业、更强大的声音，我们决定将所有工作成果梳理、重整、合并。
 今天，我们怀着诚心、真心以及用可视化驱动DT时代的梦想，为各位带来 AntV 2.0 ！
